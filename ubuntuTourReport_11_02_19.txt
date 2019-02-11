@@ -1,0 +1,6 @@
+http://ubuntustudio.org/tour this url shows us an webpage which contains the following things:
+
+The web page basically contains everything about learning and gathering knowledge Ubuntu(Linux OS).
+This page shows some contents, such as Audio, Graphics, Video, Photography and Publishing of Ubuntu.
+
+It also shows the latest and old version's information of Ubuntu.
